@@ -21,7 +21,7 @@ Text retrieved from the Internet Archive:
 Computer transcription corrected by [Cameron N.
 Coulter](http://www.cncoulter.com/).
 
-This work *The Plays of Roswitha*, by Roswitha of Gandersheim),
+This work (*The Plays of Roswitha*, by Roswitha of Gandersheim),
 identified by Cameron N. Coulter, is free of known copyright
 restrictions within the United States.
 
