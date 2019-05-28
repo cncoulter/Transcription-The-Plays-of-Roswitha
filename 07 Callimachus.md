@@ -405,7 +405,7 @@ JOHN. The man who is the victim of one is the victim of the other, for they have
 
 ANDRONICUS. Please explain.
 
-JOHN. The proud are envious, and the envious are proud. A jealous man cannot endure to hear others praised, and seeks to belitde those who are more perfect. He disdains to take a lower place, and arrogantly seeks to be put above his equals.
+JOHN. The proud are envious, and the envious are proud. A jealous man cannot endure to hear others praised, and seeks to belittle those who are more perfect. He disdains to take a lower place, and arrogantly seeks to be put above his equals.
 
 ANDRONICUS. That is clear.
 

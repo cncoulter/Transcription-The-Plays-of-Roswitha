@@ -2727,9 +2727,9 @@ they have no separate existence.
 ANDRONICUS. Please explain.
 
 JOHN. The proud are envious, and the envious are proud. A jealous man
-cannot endure to hear others praised, and seeks to belitde those who are
-more perfect. He disdains to take a lower place, and arrogantly seeks to
-be put above his equals.
+cannot endure to hear others praised, and seeks to belittle those who
+are more perfect. He disdains to take a lower place, and arrogantly
+seeks to be put above his equals.
 
 ANDRONICUS. That is clear.
 
@@ -3214,7 +3214,7 @@ heard a sigh or a word of complaint.
 
 MARY. Oh, that I had died three years ago before I came to this!
 
-ABRAHAM. I came here to make love to yon, not to weep with you over your
+ABRAHAM. I came here to make love to you, not to weep with you over your
 sins.
 
 MARY. A little thing moved me. and I spoke foolishly. It is nothing.
@@ -3285,7 +3285,7 @@ Virgin’s Son?
 MARY. No one, I know.
 
 ABRAHAM. It is human to sin, but it is devilish to remain in sin. Who
-can be jusdy condemned? Not those who fall suddenly, but those who
+can be justly condemned? Not those who fall suddenly, but those who
 refuse to rise quickly.
 
 MARY. Wretched, miserable creature that I am!
@@ -3783,7 +3783,7 @@ DISCIPLES. One vice brings another in its train.
 
 PAPHNUTIUS. They come to blows. Heads are broken, faces bruised, noses
 smashed; at times they drive each other out with weapons, and the
-threshold of the vhe place is dyed with blood!
+threshold of the vile place is dyed with blood!
 
 DISCIPLES. Most horrible!
 
@@ -3903,7 +3903,7 @@ PAPHNUTIUS. I thank you for the courtesy, but I would rather go alone.
 YOUNG MAN. We understand. Have you money in your purse, stranger? Thais
 loves a handsome face, but she loves a full purse more.
 
-PAPHNUTIUS. Gendemen, I am rich. I have a rare present to offer her.
+PAPHNUTIUS. Gentlemen, I am rich. I have a rare present to offer her.
 
 YOUNG MAN. To our next meeting, then! Farewell. May Thais be kind!
 
@@ -3941,7 +3941,7 @@ journey I have come to speak to you—to see your face!
 THAIS. Well? Have I refused to speak to you, or to show you my face?
 
 PAPHNUTIUS. I cannot speak to you here. I must be with you alone. What I
-have to say is secret. The room must be secret iuo.
+have to say is secret. The room must be secret too.
 
 THAIS. How would you like a bedchamber, fragrant with perfumes, adorned
 as for a marriage? I have such a room. Look!
@@ -3989,8 +3989,8 @@ offended the divine Majesty. That condemns you.
 
 THAIS. What do you mean? Why do you threaten me like this?
 
-PAPHNUTIUS. Because the punishment of hell-fire ta you if you remain in
-sin.
+PAPHNUTIUS. Because the punishment of hell-fire awaits you if you remain
+in sin.
 
 THAIS. Who are you, who rebuke me so sternly? Oh, you have shaken me to
 the depths of my terrified heart!
@@ -4126,7 +4126,7 @@ garments, but you shall not touch me.
 
 LOVERS. Cruel Thais, speak to us! Before you go, speak to us!
 
-THAIS. I have sinned with you. But now is the end of sin, dnd all our
+THAIS. I have sinned with you. But now is the end of sin, and all our
 wild pleasures are ended.
 
 LOVERS. Thais, do not leave us! Thais, where are you going?
@@ -4211,7 +4211,7 @@ and put on the soft fleece of a lamb.
 ABBESS. Explain yourself further.
 
 PAPHNUTIUS. You see this woman. From her youth she has led the life of a
-harlot. She has given herself up to base pleasures
+harlot. She has given herself up to base pleasures—
 
 ABBESS. What misery!
 
@@ -4292,7 +4292,7 @@ THAIS. I am ashamed to say.
 PAPHNUTIUS. Speak, Thais! Be ashamed of nothing but your sins.
 
 THAIS. Good father, what could be more repugnant than to have to attend
-to all the needs of the body in this one litde room. … It will soon be
+to all the needs of the body in this one little room. … It will soon be
 uninhabitable.
 
 PAPHNUTIUS. Fear the cruel punishments of the soul, and cease to dread
@@ -4320,11 +4320,11 @@ in the ear of God.
 
 THAIS. I desire His pardon. Surely I may ask for it?
 
-PAPHNUTIUS. Oh, Thais, the more perfecdy you humble yourself, the more
+PAPHNUTIUS. Oh, Thais, the more perfectly you humble yourself, the more
 swiftly you will win it! Let your heart be all prayer, but let your lips
-say only tliis: “O God Who made me, pity me!”
+say only this: “O God Who made me, pity me!”
 
-THAIS. O God, Who made me, pity me! He alone can save mc from defeat in
+THAIS. O God, Who made me, pity me! He alone can save me from defeat in
 this hard struggle!
 
 PAPHNUTIUS. Fight manfully, and you will gain a glorious victory.
@@ -4332,19 +4332,19 @@ PAPHNUTIUS. Fight manfully, and you will gain a glorious victory.
 THAIS. It is your part to pray for me! Pray I may earn the victor’s
 palm.
 
-PAPHNUTIUS. Vou need not remind me.
+PAPHNUTIUS. You need not remind me.
 
 THAIS. Give me some hope!
 
 PAPHNUTIUS. Courage! The palm will soon be in this humble hand. It is
-time for me to return to the desert I owe a duty to my dear disciples. I
-know their hearts are torn by my absence. Yes. I must go. Venerable
+time for me to return to the desert. I owe a duty to my dear disciples.
+I know their hearts are torn by my absence. Yes. I must go. Venerable
 Abbess, I trust this captive to our charity and tenderness. I beg you to
 take the best care of her. Sustain her delicate body with necessaries.
 Refresh her soul with the luxuries of divine knowledge.
 
 ABBESS. Have no anxiety about her, for I will cherish her with a
-mother’s love and tenderness
+mother’s love and tenderness.
 
 PAPHNUTIUS. I go then.
 
@@ -4437,8 +4437,8 @@ through whom many were destroyed body and soul.
 ANTONY. It was she who called you!
 
 PAPHNUTIUS. Brother Antony, it was God who called me. My disciples
-opposed me; nevertheless I went to the town to see Thais and wresde with
-the demon.
+opposed me; nevertheless I went to the town to see Thais and wrestle
+with the demon.
 
 ANTONY. A perilous enterprise.
 

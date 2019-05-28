@@ -338,7 +338,7 @@ INN-KEEPER. What’s the matter, Lady Mary? Why are you in the dumps? You have l
 
 MARY. Oh, that I had died three years ago before I came to this!
 
-ABRAHAM. I came here to make love to yon, not to weep with you over your sins.
+ABRAHAM. I came here to make love to you, not to weep with you over your sins.
 
 MARY. A little thing moved me. and I spoke foolishly. It is nothing. Come, let us eat and drink and be merry, for, as you say, this is not the place to think of one’s sins.
 
@@ -390,7 +390,7 @@ ABRAHAM. Oh, Mary, has anyone ever lived on earth without sin except the Virgin�
 
 MARY. No one, I know.
 
-ABRAHAM. It is human to sin, but it is devilish to remain in sin. Who can be jusdy condemned? Not those who fall suddenly, but those who refuse to rise quickly.
+ABRAHAM. It is human to sin, but it is devilish to remain in sin. Who can be justly condemned? Not those who fall suddenly, but those who refuse to rise quickly.
 
 MARY. Wretched, miserable creature that I am!
 
