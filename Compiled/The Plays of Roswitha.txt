@@ -1,35 +1,35 @@
-*The Plays of Roswitha* translated by Christopher St. John
-==========================================================
+
+
+_THE PLAYS OF ROSWITHA_ TRANSLATED BY CHRISTOPHER ST. JOHN
+
 
 Description
------------
 
 Roswitha, also known as Hrotsvitha of Gandersheim, was a tenth century
 German canoness, dramatist, and poet. Inspired by the Roman playwright
 Terence, but also upset by his immoral subject matter, Roswitha sought
 to “Christianize” his work through six plays of her own.
 
-Copyright
----------
 
-*The Plays of Roswitha*\
-Translated by Christopher St. John\
+Copyright
+
+_The Plays of Roswitha_
+Translated by Christopher St. John
 London: Chatto & Windus, 1923
 
 Text retrieved from the Internet Archive:
-<https://archive.org/details/playsofroswitha00hrotuoft>
+https://archive.org/details/playsofroswitha00hrotuoft
 
-Computer transcription corrected by [Cameron N.
-Coulter](https://www.cncoulter.com/).
+Computer transcription corrected by Cameron N. Coulter.
 
-This work (*The Plays of Roswitha*, by Roswitha of Gandersheim),
+This work (_The Plays of Roswitha_, by Roswitha of Gandersheim),
 identified by Cameron N. Coulter, is free of known copyright
 restrictions within the United States.
 
-For more on Roswitha: <https://en.wikipedia.org/wiki/Hrotsvitha>
+For more on Roswitha: https://en.wikipedia.org/wiki/Hrotsvitha
+
 
 Contents
---------
 
 1.  Translator’s Note
 2.  Introduction by His Eminence Cardinal Gasquet
@@ -43,21 +43,23 @@ Contents
 10. Sapientia
 11. Note on the Acting of the Plays
 
-Translator’s Note
-=================
+
+
+TRANSLATOR’S NOTE
+
 
 The works consulted include the following:
 
--   *Hrotsvithae Opera*: Edited by Paul Winterfeld.
--   *Hrotsvithae Opera*: Edited by H. L. Schurzfleisch.
--   *Hrotsvithae Opera*: Edited by Conrad Celtes (Nurnberg, 1 501).
--   *Patrologiae Cursus Completus*: J. P. Migne (vol. 137).
--   *Abraham*: Translated into French by C. Cuzin, with critical
+-   _Hrotsvithae Opera_: Edited by Paul Winterfeld.
+-   _Hrotsvithae Opera_: Edited by H. L. Schurzfleisch.
+-   _Hrotsvithae Opera_: Edited by Conrad Celtes (Nurnberg, 1 501).
+-   _Patrologiae Cursus Completus_: J. P. Migne (vol. 137).
+-   _Abraham_: Translated into French by C. Cuzin, with critical
     preface.
--   *Theatre de Roswitha*: Charles Magnin.
--   *Origines du theatre Moderne*: Charles Magnin.
--   *Antiquitates Gandersheimensis*: Leuckfeld.
--   *Six Medieval Women*: Alice Kemp Welch.
+-   _Theatre de Roswitha_: Charles Magnin.
+-   _Origines du theatre Moderne_: Charles Magnin.
+-   _Antiquitates Gandersheimensis_: Leuckfeld.
+-   _Six Medieval Women_: Alice Kemp Welch.
 
 ------------------------------------------------------------------------
 
@@ -67,14 +69,15 @@ for assistance in the work of translation.
 
 —Christopher St. John
 
-Introduction
-============
+
+
+INTRODUCTION
+
 
 By His Eminence Cardinal Gasquet
---------------------------------
 
 Whatever may be thought of the precise merits of these six short dramas,
-now translated into English for the first time,[^1] it will be conceded
+now translated into English for the first time,[1] it will be conceded
 that a collection of plays bearing the date of the 10th century,
 authenticated as the work of a woman, and a nun, is a remarkable
 phenomenon, interesting to students of monasticism and of the drama
@@ -102,8 +105,8 @@ considerable and least imperfect of these texts in the plays of
 Hrotsuitha, or Roswitha, a nun of the Order of St. Benedict, who spent
 her religious life in the Convent of Gandersheim.
 
-There is a marked difference between her plays and such dramas as *The
-Mystery of the Wise and Foolish Virgins*, which is little more than an
+There is a marked difference between her plays and such dramas as _The
+Mystery of the Wise and Foolish Virgins_, which is little more than an
 amplification of the sequence of the liturgy. We find here an author
 familiar not only with the Scriptures, the works of the Fathers of the
 Church, of the agiographers, and of the Christian philosophers, but with
@@ -169,7 +172,7 @@ The French commentator collated the Celtes and Schurzfleisch texts with
 the original manuscript, which in 1803 had been moved from St. Emmeran
 to the Munich library, and found one or two readings preferable to those
 of Celtes. Magnin also restored some stage directions omitted by Celtes,
-one of which, in the eighth scene of *Callimachus*, affords, as the
+one of which, in the eighth scene of _Callimachus_, affords, as the
 English translator notes, valuable evidence that the play was acted, or
 at least intended for representation.
 
@@ -185,13 +188,13 @@ confidence than the preface to the plays, and very much more than the
 diffident preface to the poems. One of these poems, Passio Sancti
 Pelagii,” once enjoyed a very high reputation, and is often quoted by
 Spanish and Portuguese agiographers. The Bollandists print it entire in
-the *Acta Sanctorum*. It has another interest in that Roswitha tells us
+the _Acta Sanctorum_. It has another interest in that Roswitha tells us
 that she obtained her facts from a witness of the saint’s martyrdom.
 
 Although Roswitha claims Terence as her master in the art of
 play-writing, it cannot be said that she imitates him closely. When
-*Paphnutius* was acted in London in 1914 the dramatic critic of *The
-Times* was justified from one point of view in asserting that Roswitha’s
+_Paphnutius_ was acted in London in 1914 the dramatic critic of _The
+Times_ was justified from one point of view in asserting that Roswitha’s
 style is “not in the least Terentian.” For one thing she is quite
 indifferent to the “unities,” and transports us from place to place with
 bewildering abruptness. Her relation to Terence, as she herself insists,
@@ -213,17 +216,18 @@ shortcomings, Roswitha’s works have a claim to an eminent place in
 medieval literature, and do honour to her sex, to the age in which she
 lived, and to the vocation which she followed.
 
-The Plays of Roswitha[^2] {#the-plays-of-roswitha2}
-=========================
+
+
+THE PLAYS OF ROSWITHA[2]
+
 
 By Christopher St. John
------------------------
 
 This translation of the six plays of Roswitha (there are really seven,
-for the two parts of *Gallicanus* practically constitute two separate
+for the two parts of _Gallicanus_ practically constitute two separate
 dramas) was begun in the year 1912 and completed in 1914. The lively
 interest provoked by the stage performance of one of the translations
-(that of the play *Paphnutius*) by the Pioneer Players in January 1914
+(that of the play _Paphnutius_) by the Pioneer Players in January 1914
 led me to think that the publication of the whole theatre of Roswitha in
 English would be welcomed by all students of the drama. Unfortunately,
 the war delayed publication, and the manuscript was entirely destroyed
@@ -234,7 +238,7 @@ The work of collating the various Latin texts of Roswitha’s plays and
 producing a translation which should preserve some of the naive
 simplicity of the original had been a difficult one, and to begin it all
 over again was a heart-breaking task. The consciousness that the
-interest in Roswitha provoked by the performance of *Paphnutius* had
+interest in Roswitha provoked by the performance of _Paphnutius_ had
 waned did not alleviate the heaviness of spirit in which the work of
 replacing the burned manuscript was undertaken.
 
@@ -258,7 +262,7 @@ Latin of the Middle Ages. The only principle observed in my translation
 has been the general one laid down by Edward Fitzgerald: “The live dog
 is to be preferred to the dead lion—in translation at any rate,” and if
 this has involved a loss of dignity, I hope there may be some
-compensating gain in ease and force.[^3] In regard to the names of the
+compensating gain in ease and force.[3] In regard to the names of the
 characters in the plays, when there were well-known English equivalents
 such as “Hadrian” and “Constantine” I have not hesitated to use them,
 but when there were none I have given the Latin names. There is a good
@@ -268,10 +272,10 @@ we do not try to Anglicize Perugia or Assisi.
 The plays are all founded on well-known legends, which Roswitha follows
 very closely as regards the facts. But she shows great originality in
 her use of the facts and in her development of characters often merely
-indicated in the legends. Three of the plays, *Gallicanus*, *Dulcitius*,
-and *Sapientia*, deal with the conflict between infant Christianity and
+indicated in the legends. Three of the plays, _Gallicanus_, _Dulcitius_,
+and _Sapientia_, deal with the conflict between infant Christianity and
 Paganism, martyrdoms under the Emperors Hadrian, Diocletian, and Julian
-the Apostate being the chief incidents. *Gallicanus*, which comes first
+the Apostate being the chief incidents. _Gallicanus_, which comes first
 in the manuscript, shows considerable skill in dramatic construction.
 Incident follows rapidly on incident. The scene lies alternately in Rome
 and on the battlefield, yet the action is kept quite clear. The story is
@@ -296,7 +300,7 @@ poverty, and obedience is the highest life, she understood how hard it
 is for those who embrace it to believe that the yoke will be easy and
 the burden light.
 
-The second play, *Dulcitius*, is poorly constructed and, as a whole,
+The second play, _Dulcitius_, is poorly constructed and, as a whole,
 less interesting than any of the plays. Yet it has some features which
 repay close study. It is the only play of Roswitha’s obviously designed
 to provoke laughter, and if the level of the opening scenes had been
@@ -307,24 +311,24 @@ soldiers and a comic governor. Unfortunately, the farcical vein is
 suddenly abandoned, perhaps because Roswitha’s Abbess thought such
 fooling undignified in a nun! There must be some explanation of the
 sudden disappearance of the comic character of Dulcitius from the play.
-However, even as it stands *Dulcitius* is worth a great deal, since it
+However, even as it stands _Dulcitius_ is worth a great deal, since it
 affords the best proof we have that Roswitha’s plays were written for
 representation. There is indirect proof in the fact that we know that
 plays were acted at Gandersheim, as at other monasteries, on great
-occasions, but here is direct evidence. All the fun of *Dulcitius* lies
+occasions, but here is direct evidence. All the fun of _Dulcitius_ lies
 in the action. No dramatist who had not in mind the effect on
-*spectators* could have conceived the scene in which the foolish
+_spectators_ could have conceived the scene in which the foolish
 governor, black as a sweep from his amorous encounter with the kitchen
 pots and pans which he mistakes for young women, is chased away from the
 palace gates, asking the while if there is anything amiss with his fine
-and handsome appearance. Stage directions, or *didascalia*, are very
+and handsome appearance. Stage directions, or _didascalia_, are very
 rarely found in old dramatic texts, but when Magnin compared Roswitha’s
-original text[^4] with the first printed edition he found several which
+original text[4] with the first printed edition he found several which
 had been omitted by Celtes.
 
-*Callimachus*, *Abraham*, and *Paphnutius* precede *Sapientia* in the
+_Callimachus_, _Abraham_, and _Paphnutius_ precede _Sapientia_ in the
 manuscript, but as the last belongs by reason of its subject to the same
-group as *Gallicanus* and *Dulcitius*, it is more convenient to discuss
+group as _Gallicanus_ and _Dulcitius_, it is more convenient to discuss
 it next. It is the best constructed of the “martyrdom” plays, and is
 singled out for special praise by most of the Roswitha commentators. The
 final scene in which Sapientia, having buried the bodies of her martyred
@@ -341,43 +345,43 @@ Christians by a shorter space of time than that which separates us from
 her, and she based her narrative poem about the martyrdom of Saint
 Pelagius on an account given her by an eye-witness. While modern authors
 (with the exception of Mr. Bernard Shaw, whose Christian martyrs in
-*Androcles and the Lion* bear a resemblance to Roswitha’s) love to dwell
+_Androcles and the Lion_ bear a resemblance to Roswitha’s) love to dwell
 on the dignity of the early converts to Christianity, Roswitha conveys
 the impression that the dignity was mingled with impudence.
 
-In *Callimachus*, *Abraham*, and *Paphnutius*, Roswitha sets out to
+In _Callimachus_, _Abraham_, and _Paphnutius_, Roswitha sets out to
 describe the war between the flesh and the spirit, and the long penance
 which must be done by those who have allowed the flesh to triumph. It is
 not enough for them to be converted and to realise their crime against
 the infinite beauty and goodness of God. They are called on to take
-practical measures to cleanse themselves. *Callimachus* is the first of
+practical measures to cleanse themselves. _Callimachus_ is the first of
 these plays, and by no means the best, although it timidly sounds a note
 of passion, rare, if it exists at all, in medieval literature. Some
 commentators have laboured to establish a resemblance between
-*Callimachus* and *Romeo and Juliet*, and there are curious parallels.
+_Callimachus_ and _Romeo and Juliet_, and there are curious parallels.
 In both you see a sepulchre, a woman’s open grave, and the shroud lifted
 by the desperate hand of a lover. In both two men come to this tragic
-scene, bowed down by grief, yet able to control it —in *Romeo and
-Juliet*, Capulet and Friar Lawrence, in *Callimachus*, the husband of
+scene, bowed down by grief, yet able to control it —in _Romeo and
+Juliet_, Capulet and Friar Lawrence, in _Callimachus_, the husband of
 the dead woman and the Apostle John. It would be idle to strain the
 parallels too far. They might not strike the attention at all if
-*Callimachus* did not possess a touch of the spirit of *Romeo and
-Juliet*. It is this which makes the play seem to belong to a later
+_Callimachus_ did not possess a touch of the spirit of _Romeo and
+Juliet_. It is this which makes the play seem to belong to a later
 period than the others, and gives it a different character. The
 passionate language employed, the romance of the story, the colour of
 the earlier scenes are extraordinary when we remember that the play was
-written in the 10^th^ century. Haltingly, and apparently without any
+written in the 10th century. Haltingly, and apparently without any
 conscious intention, Roswitha describes the kind of love of which
 Terence her model knew nothing —that feverish desire absorbing the
 senses and the soul, which leads to sin or madness or self-slaughter. As
 if frightened by her own daring (or did the Abbess intervene, as we
-guess she intervened in *Dulcitius*!), Roswitha spoils the play as a
+guess she intervened in _Dulcitius_!), Roswitha spoils the play as a
 play by a lengthy and tedious final scene in which St. John appears to
 more advantage as a theologian than as a man.
 
-*Abraham* and *Paphnutius* show Roswitha at her best as a dramatist. In
+_Abraham_ and _Paphnutius_ show Roswitha at her best as a dramatist. In
 both plays the scenes are well knit, the characterization deft and sure,
-and the dialogue admirably expressive. The opening scenes of *Abraham*
+and the dialogue admirably expressive. The opening scenes of _Abraham_
 reveal that power to suggest character and situation without wordy
 explanations which is essential in drama. We know at once, although we
 are not told, that Mary, mere child as she is, is not made of stern
@@ -398,9 +402,9 @@ later dramatists into false sentiment, coarseness, or mere preaching,
 should have been written nearly a thousand years ago by an obscure nun
 in a convent in Lower Saxony.
 
-Perhaps nothing in *Paphnutius* is on quite the same level of
-achievement, but a play is not made by a single scene, and *Paphnutius*
-as a whole is better than *Abraham* as a whole. Few will question that
+Perhaps nothing in _Paphnutius_ is on quite the same level of
+achievement, but a play is not made by a single scene, and _Paphnutius_
+as a whole is better than _Abraham_ as a whole. Few will question that
 it is Roswitha’s masterpiece. It is very creditable to her that,
 although the stones of the two plays are similar, she should have shown
 such variety in the treatment of them. When we compare them we find
@@ -417,8 +421,8 @@ suggestion, penetrates through his austerity, although he never
 manifests it until the moment when he is assured through the vision of
 Paul, St. Anthony’s disciple, that the repentance of the sinner has
 caused that joy in heaven which exceeds all the joy that can be given by
-the righteous. *Paphnutius* alone among Roswitha’s plays has stood the
-test of stage representation in modern times,[^5] and come through it
+the righteous. _Paphnutius_ alone among Roswitha’s plays has stood the
+test of stage representation in modern times,[5] and come through it
 triumphantly, although the miraculous swiftness of Thais’s conversion
 was considered most “unnatural” by the critics who witnessed the
 performance.
@@ -428,9 +432,9 @@ Englishman is sceptical. As Mr. Chesterton has pointed out, he will not
 swear to the possibility of a thing he has not seen, although he is
 quite ready to swear to the impossibility of a thing he has seen. In the
 foreword which Mr. Chesterton wrote for the programme of the first
-performance of *Paphnutius* he compared Roswitha’s treatment of the
+performance of _Paphnutius_ he compared Roswitha’s treatment of the
 story of Thais’s conversion with Anatole France’s in his well-known
-novel “Thais.” “This very strong and moving play (*Paphnutius*) was
+novel “Thais.” “This very strong and moving play (_Paphnutius_) was
 written by a person about as different from the author of ‘Thais’ as
 could be capable of wearing the human form, a devout woman, vowed to a
 restricted life, and writing in the light of a Latin that was gradually
@@ -440,8 +444,8 @@ religion should become almost as fierce as its enemies. … This nun of
 the Dark Ages wrote without any of that modern comfort and culture which
 ought, at the very least, to make men kind. When M. Anatole France was
 the author of ‘Silvestre Bonnard’ it did make him kind. But about
-Paphnutius and Thais, the harsh ascetic of the hardest times of the
-10^th^ century is far kinder than he. In the ‘Thais’ of the great French
+Paphnutius and Thais, the harsh ascetic of the hardest times of the 10th
+century is far kinder than he. In the ‘Thais’ of the great French
 romancer the whole point is that Thais repents but that Paphnutius
 relapses. The nun saves both souls. Anatole France loses one of them.
 That is modern universalism.”
@@ -461,11 +465,12 @@ in the hope that the “strong voice of Gandersheim,” speaking directly to
 the reader, may win a fresh interest for the plays, and give some idea
 of the character and attainments of the remarkable woman who wrote them.
 
-The Prefaces of Roswitha
-========================
+
+
+THE PREFACES OF ROSWITHA
+
 
 Preface to the Plays of Hrotswitha, German Religious and Virgin of the Saxon Race
----------------------------------------------------------------------------------
 
 There are many Catholics, and we cannot entirely acquit ourselves of the
 charge, who, attracted by the polished elegance of the style of pagan
@@ -512,8 +517,8 @@ in heroic strophes, but here I have sifted them into a series of
 dramatic scenes and avoided through omission the pernicious
 voluptuousness of pagan writers.
 
+
 Epistle of the Same to the Learned Patrons of this Book
--------------------------------------------------------
 
 To you, learned and virtuous men, who do not envy the success of others,
 but on the contrary rejoice in it as becomes the truly great,
@@ -565,12 +570,12 @@ careful attention that you would give to a work of your own, and that
 when you have succeeded in bringing it up to the proper standard you
 will return it to me, that I may learn what are its worst faults.
 
-Roswitha’s Preface to her Poetical Works
-----------------------------------------
 
-*(The Life Story of the Blessed Virgin, The Fall and Conversion of
+Roswitha’s Preface to her Poetical Works
+
+_(The Life Story of the Blessed Virgin, The Fall and Conversion of
 Theophilus, The Martyrdom of Saint Agnes, Poems concerning the First
-Cenobites at Gandersheim, The Acts of Otho I, etc., etc.)*
+Cenobites at Gandersheim, The Acts of Otho I, etc., etc.)_
 
 I offer this little book, which has not much to recommend it in the way
 of beauty, although it has been compiled with a good deal of care, for
@@ -620,8 +625,8 @@ shortcomings. Do this in an indulgent rather than in a censorious
 spirit, for the critic forfeits the right to be severe when the writer
 acknowledges defects with humility.
 
+
 To Gerberg
-----------
 
 Illustrious Abbess, venerated no less for uprightness and honesty than
 for the high distinction of a royal and noble race, Roswitha of
@@ -667,8 +672,8 @@ to keep silence? I should deserve blame if I sought to withhold my work.
 In any case I leave the decision to you and your friend, Archbishop
 William, to whom you have thought fit to show these unpolished lines.
 
+
 Roswitha’s Preface to the Complete Works
-----------------------------------------
 
 I found all the material I have used in this book in various ancient
 works by authors of reputation, with the exception of the story of the
@@ -681,11 +686,12 @@ crept into my other compositions, the accuracy of which can be
 challenged, it is not my fault, unless it be a fault to have reproduced
 the statements of unreliable authorities.
 
-Gallicanus
-==========
+
+
+GALLICANUS
+
 
 Argument
---------
 
 The conversion of Gallicanus, Commander-in-Chief. On the eve of his
 departure for a campaign against the Scythians, Gallicanus is betrothed
@@ -702,27 +708,27 @@ executioner becomes possessed by a devil. He is cured after confessing
 the crime committed by his father. He bears witness to the merits of the
 martyrs, and is baptized, together with his father.
 
+
 Characters in Part I
---------------------
 
 -   THE EMPEROR CONSTANTINE.
 -   GALLICANUS.
--   CONSTANCE *(Daughter of Constantine)*.
--   ARTEMIA *(Daughter of Gallicanus)*.
--   ATTICA *(Daughter of Gallicanus)*.
--   JOHN *(Grand Almoner to Constance)*.
--   PAUL *(Grand Almoner to Constance)*.
+-   CONSTANCE _(Daughter of Constantine)_.
+-   ARTEMIA _(Daughter of Gallicanus)_.
+-   ATTICA _(Daughter of Gallicanus)_.
+-   JOHN _(Grand Almoner to Constance)_.
+-   PAUL _(Grand Almoner to Constance)_.
 -   LORDS OF THE COURT.
--   BRADAN *(King of the Scythians)*.
+-   BRADAN _(King of the Scythians)_.
 -   TRIBUNES.
 -   ROMAN SOLDIERS.
 -   SCYTHIAN SOLDIERS.
--   HELENA *(Mother of Constantine)*.
+-   HELENA _(Mother of Constantine)_.
+
 
 Characters in Part II
----------------------
 
--   JULIAN *(The Apostate)*.
+-   JULIAN _(The Apostate)_.
 -   GALLICANUS.
 -   TERENTIANUS.
 -   JOHN.
@@ -731,10 +737,10 @@ Characters in Part II
 -   CHRISTIANS.
 -   SOLDIERS.
 
-Gallicanus—Part I
------------------
 
-### Scene I
+Gallicanus—Part I
+
+Scene I
 
 CONSTANTINE. Gallicanus, this tries my patience. You have delayed the
 offensive against the Scythians too long. The only nation which boldly
@@ -816,7 +822,7 @@ GALLICANUS. I wish to marry her. Will you give your consent?
 CONSTANTINE. He asks no small thing, my lords. This is an honour of
 which none of you have ever dreamed.
 
-GALLICANUS. Alas! I foresaw this. He scorns me. *(To the Lords)*
+GALLICANUS. Alas! I foresaw this. He scorns me. _(To the Lords)_
 Intercede for me, I implore you.
 
 THE LORDS. Most illustrious Emperor, we beg you to be generous. Remember
@@ -832,7 +838,7 @@ will lay the project before her.
 
 GALLICANUS. It is my wish.
 
-### Scene II
+Scene II
 
 CONSTANCE. Our Lord the Emperor approaches. He looks strangely grave and
 sad. What can it mean?
@@ -925,7 +931,7 @@ promise.
 
 CONSTANCE. Go in peace, my lord.
 
-### Scene III
+Scene III
 
 GALLICANUS. O princes, I die of impatience to learn what has come of
 this long conference between our august sovereign and his daughter.
@@ -946,7 +952,7 @@ be true, the calm joy in his reflects a kindly mood.
 
 THE LORDS. We trust so.
 
-### Scene IV
+Scene IV
 
 CONSTANTINE. Gallicanus!
 
@@ -1004,14 +1010,14 @@ CONSTANTINE. Send for your daughters without delay.
 GALLICANUS. Are my soldiers still there? Come, fellows, hasten! Run to
 my daughters and bring them to their sovereign’s presence.
 
-### Scene V
+Scene V
 
 SOLDIERS. Most noble Constance, the illustrious daughters of Gallicanus
 are here. They are beautiful, wise and virtuous, and in every way worthy
 of your friendship.
 
-CONSTANCE. They are welcome. *(They are introduced with ceremony.)*[^6]
-O Christ, lover of virginity and fount of chastity! Thou Who through the
+CONSTANCE. They are welcome. _(They are introduced with ceremony.)_[6] O
+Christ, lover of virginity and fount of chastity! Thou Who through the
 intercession of Thy holy martyr Agnes hast preserved my body from stain
 and my mind from pagan errors! Thou Who hast shown me as an example Thy
 Mother’s virgin bed where Thou didst manifest Thyself true God! Thou Who
@@ -1054,7 +1060,7 @@ ARTEMIA. He has only to be taught. Then he must believe.
 
 CONSTANCE. Send for John and Paul.
 
-### Scene VI
+Scene VI
 
 JOHN. You sent for us, Highness. We are here.
 
@@ -1064,7 +1070,7 @@ means to make us the instruments of winning him to His service.
 
 PAUL. God give us success! We shall do all we can.
 
-### Scene VII
+Scene VII
 
 GALLICANUS. You are welcome, John—and you, Paul. I have awaited your
 coming with impatience.
@@ -1086,7 +1092,7 @@ GALLICANUS. You can rely on it. Come, tribunes and centurions, assemble
 the troops. Soldiers in my command, I present to you John and Paul, for
 whose arrival our departure has been delayed.
 
-TRIBUNES. Lead us on. *(The tribunes gather round Gallicanus.)*[^7]
+TRIBUNES. Lead us on. _(The tribunes gather round Gallicanus.)_[7]
 
 GALLICANUS. We must first go to the Capitol, and visit the temples to
 propitiate the gods with the customary sacrifices. That is the way to
@@ -1098,7 +1104,7 @@ JOHN. Let us withdraw for a time.
 
 PAUL. We cannot do otherwise.
 
-### Scene VIII
+Scene VIII
 
 JOHN. The General is leaving the temple. Let us mount our horses and
 ride to meet him.
@@ -1112,7 +1118,7 @@ may ride with you unencumbered.
 
 GALLICANUS. Well planned!
 
-### Scene IX
+Scene IX
 
 GALLICANUS. By Jupiter, tribunes, I see the legions of an immense army
 advancing! The diversity of their arms is enough to make the stoutest
@@ -1181,7 +1187,7 @@ and to devote the rest of my life to the service of God.
 
 PAUL. You are right.
 
-### Scene X
+Scene X
 
 GALLICANUS. Look! That vast crowd of citizens has gathered to see our
 entry into Rome! See how they flock to acclaim us, bearing according to
@@ -1204,7 +1210,7 @@ of the Apostles.
 PAUL. O happy man! And most happy thought! In this you show yourself a
 true Christian.
 
-### Scene XI
+Scene XI
 
 CONSTANTINE. I am greatly astonished, soldiers, that Gallicanus should
 be so long in presenting himself before his sovereign.
@@ -1221,7 +1227,7 @@ CONSTANTINE. Impossible!
 
 SOLDIERS. Here he comes. You can ask him yourself.
 
-### Scene XII
+Scene XII
 
 CONSTANTINE. Welcome, Gallicanus! I have awaited your arrival with
 impatience. I long to hear from your own lips how the battle went and
@@ -1381,7 +1387,7 @@ GALLICANUS. Lead on. I will follow.
 CONSTANTINE. They are coming here. Look, they hasten to greet us, and my
 glorious mother, noble Helena, is with them. They all weep for joy.
 
-### Scene XIII
+Scene XIII
 
 GALLICANUS. Be at peace, most holy virgins. Persevere in the fear of
 God, and preserve untouched the treasure of your virginity. Then you
@@ -1452,10 +1458,10 @@ and reigns in the Unity of the Trinity, and at last attain eternal joy!
 
 GALLICANUS. Amen.
 
-Gallicanus—Part II
-------------------
 
-### Scene I
+Gallicanus—Part II
+
+Scene I
 
 JULIAN. The cause of the unrest in our Empire is clear enough. These
 Christians enjoy too much liberty. Their claim that they obey laws made
@@ -1473,7 +1479,7 @@ renounce all that he possesses for my sake cannot be my disciple.”
 
 SOLDIERS. We will carry out your orders instantly.
 
-### Scene II
+Scene II
 
 CONSULS. The soldiers have returned.
 
@@ -1490,14 +1496,14 @@ threshold than he was straightway stricken with leprosy or madness.
 JULIAN. Return and force Gallicanus to quit the realm or sacrifice to
 the gods.
 
-### Scene III
+Scene III
 
 GALLICANUS. Do not waste your breath, fellows. Your advice is useless. I
 hold all that exists beneath the sun as nothing compared with eternal
 life. Banished for Christ’s sake, I shall retire to Alexandria, where I
 hope to win the martyr’s crown.
 
-### Scene IV
+Scene IV
 
 SOLDIERS. Gallicanus, exiled by your orders, fled to Alexandria. He was
 arrested in that city by the Governor, Ratianus, and has perished by the
@@ -1516,7 +1522,7 @@ JULIAN. Bring them before me.
 
 SOLDIERS. They are here.
 
-### Scene V
+Scene V
 
 JULIAN. John and Paul, from the cradle you have been attached to the
 Emperor’s household. You served my predecessor.
@@ -1615,14 +1621,14 @@ commending ourselves to God in prayer and fasting.
 
 PAUL. This is all we have to do now.
 
-### Scene VI
+Scene VI
 
 JULIAN. Go, Terentianus. Take with you a few trusted soldiers and compel
 John and Paul to sacrifice to Jupiter. If they persist in their refusal,
 let them be put to death, not publicly, but with the greatest possible
 secrecy, since they once held office in this palace.
 
-### Scene VII
+Scene VII
 
 TERENTIANUS. Paul and John, the Emperor Julian, my master, of his
 clemency sends you this gold statue of Jupiter, and commands you to burn
@@ -1649,7 +1655,7 @@ in life we praise Thee.
 PAUL. O Christ, receive our souls, which for Thy sake are being driven
 from this dwelling of clay!
 
-### Scene VIII
+Scene VIII
 
 TERENTIANUS. Christians, Christians, what ails my son?
 
@@ -1682,7 +1688,7 @@ before the holy tombs?
 
 CHRISTIANS. You would win pardon if you were first cleansed by baptism.
 
-### Scene IX
+Scene IX
 
 TERENTIANUS. Glorious witnesses of Christ, John and Paul, follow the
 example and commandment of your Master, and pray for your persecutors.
@@ -1700,11 +1706,12 @@ of the sepulchre their lifeless bones work astounding miracles,
 testifying to their sanctity and to the grace of our Lord Jesus Christ
 Who liveth and reigneth!
 
-Dulcitius
-=========
+
+
+DULCITIUS
+
 
 Argument
---------
 
 The martyrdom of the holy virgins Agape, Chionia, and Irena. The
 Governor Dulcitius seeks them out in the silence of the night with
@@ -1718,24 +1725,24 @@ punishment. Sisinnius in his turn is made the sport of the most strange
 delusions, but at length succeeds in getting Agape and Chionia burnt,
 and Irena shot to death with arrows.
 
+
 Characters
-----------
 
 -   THE EMPEROR DIOCLETIAN.
 -   AGAPE.
 -   CHIONIA.
 -   IRENA.
--   DULCITIUS *(Governor of Thessalonica)*.
+-   DULCITIUS _(Governor of Thessalonica)_.
 -   SOLDIERS.
 -   SISINNIUS.
 -   WIFE TO DULCITIUS.
--   *Ushers of the Imperial Palace.*
--   *Ladies-in-Waiting on the Wife of Dulcitius.*
+-   _Ushers of the Imperial Palace._
+-   _Ladies-in-Waiting on the Wife of Dulcitius._
+
 
 Dulcitius
----------
 
-### Scene I
+Scene I
 
 DIOCLETIAN. The pure and famous race to which you belong and your own
 rare beauty make it fitting that you should be wedded to the highest in
@@ -1807,7 +1814,7 @@ DIOCLETIAN. Let these obstinate women who dare to defy our authority be
 laden with chains and thrown into a dungeon. Let them be examined by
 Governor Dulcitius.
 
-### Scene II
+Scene II
 
 DULCITIUS. Soldiers, produce your prisoners.
 
@@ -1851,7 +1858,7 @@ DULCITIUS. I can visit them oftener.
 
 SOLDIERS. It shall be done.
 
-### Scene III
+Scene III
 
 DULCITIUS. What can the prisoners be doing at this hour of night?
 
@@ -1866,7 +1873,7 @@ enjoy myself in those lovely arms!
 
 SOLDIERS. Enter. We will wait for you here.
 
-### Scene IV
+Scene IV
 
 AGAPE. What noise is that outside the door?
 
@@ -1903,7 +1910,7 @@ possessed of a devil.
 IRENA. Look! He is going now. Let us watch the soldiers and see what
 they do when he goes out.
 
-### Scene V
+Scene V
 
 SOLDIERS. What’s this? Either one possessed by the devil, or the devil
 himself. Let’s be off!
@@ -1917,7 +1924,7 @@ Come, let’s take to our heels! This devil means us no good.
 DULCITIUS. I will hasten to the palace. I will tell the whole court how
 I have been insulted.
 
-### Scene VI
+Scene VI
 
 DULCITIUS. Ushers, admit me at once. I have important business with the
 Emperor.
@@ -1933,7 +1940,7 @@ foul monster! I will go to my wife. She will tell me the truth. But here
 she comes. Her looks are wild, her hair unbound, and all her household
 follow her weeping.
 
-### Scene VII
+Scene VII
 
 WIFE OF DULCITIUS. My lord, my lord, what evil has come on you? Have you
 lost your reason, Dulcitius? Have the Christ-worshippers put a spell on
@@ -1949,7 +1956,7 @@ DULCITIUS. Those impudent wenches shall be stripped and exposed naked in
 public. They shall have a taste of the outrage to which I have been
 subjected!
 
-### Scene VIII
+Scene VIII
 
 SOLDIERS. Here we are sweating like pigs and what’s the use? Their
 clothes cling to their bodies like their own skin. What’s more, our
@@ -1957,7 +1964,7 @@ chief, who ordered us to strip them, sits there snoring, and there’s no
 way of waking him. We will go to the Emperor and tell him all that has
 passed.
 
-### Scene IX
+Scene IX
 
 DIOCLETIAN. I grieve to hear of the outrageous way in which the Governor
 Dulcitius has been insulted and hoaxed! But these girls shall not boast
@@ -1965,7 +1972,7 @@ of having blasphemed our gods with impunity, or of having made a mock of
 those who worship them. I will entrust the execution of my vengeance to
 Count Sisinnius.
 
-### Scene X
+Scene X
 
 SISINNIUS. Soldiers, where are these impudent hussies who are to be put
 to the torture?
@@ -1981,7 +1988,7 @@ when not intimidated by her sisters.
 
 SOLDIERS. That may be so.
 
-### Scene XI
+Scene XI
 
 SOLDIERS. We have brought the girls you asked for.
 
@@ -2027,7 +2034,7 @@ SISINNIUS. Bring Irena here.
 
 SOLDIERS. There she is.
 
-### Scene XII
+Scene XII
 
 SISINNIUS. Irena, take warning from the fate of your sisters, and
 tremble, for if you follow their example you will perish.
@@ -2090,7 +2097,7 @@ interfere with your duty.
 SOLDIERS. We are not likely to be frightened by a slip of a girl! We
 will carry out your orders at once.
 
-### Scene XIII
+Scene XIII
 
 SISINNIUS. Who are these men hurrying towards us? They cannot be the
 soldiers who took away Irena. Yet they resemble them. Yes, these are the
@@ -2145,7 +2152,7 @@ ride to the mountain to discover who has dared to play us this trick.
 
 SOLDIERS. We will come too.
 
-### Scene XIV
+Scene XIV
 
 SISINNIUS. What has happened to me? These Christians have bewitched me.
 I wander blindly round this hill, and when I stumble on a path I can
@@ -2171,11 +2178,12 @@ you will be damned in Tartarus. But I shall receive the martyr’s palm,
 and, adorned with the crown of virginity, I shall enter the azure palace
 of the Eternal King, to Whom be glory and honour for ever and ever!
 
-Callimachus
-===========
+
+
+CALLIMACHUS
+
 
 Argument
---------
 
 The resurrection of Drusiana and Callimachus.
 
@@ -2184,8 +2192,8 @@ is alive but after she has died in the Lord. He dies from the bite of a
 serpent, but, thanks to the prayers of Saint John the Apostle, he is
 restored to life, together with Drusiana, and is born again in Christ.
 
+
 Characters
-----------
 
 -   CALLIMACHUS.
 -   FRIENDS TO CALLIMACHUS.
@@ -2194,10 +2202,10 @@ Characters
 -   FORTUNATUS.
 -   THE APOSTLE JOHN.
 
-Callimachus
------------
 
-### Scene I
+Callimachus
+
+Scene I
 
 CALLIMACHUS. My friends, a word with you.
 
@@ -2212,7 +2220,7 @@ interrupt us.
 
 FRIENDS. Just as you like.
 
-### Scene II
+Scene II
 
 CALLIMACHUS. For a long time now I have been in great trouble. I hope
 that by confiding in you I shall find relief.
@@ -2283,7 +2291,7 @@ CALLIMACHUS. I defy the stars!
 
 FRIENDS. We shall see.
 
-### Scene III
+Scene III
 
 CALLIMACHUS. Drusiana, listen to me! Drusiana, my deepest heart’s love!
 
@@ -2341,7 +2349,7 @@ CALLIMACHUS. I call heaven and earth to witness that if you do not yield
 I will never rest from the fight for you. I will be as cunning as the
 serpent. I will use all my skill and strength to trap you.
 
-### Scene IV
+Scene IV
 
 DRUSIANA. O Lord Jesus, what use is my vow of chastity? My beauty has
 all the same made this man love me. Pity my fears, O Lord. Pity the
@@ -2354,7 +2362,7 @@ from being the ruin of a soul!
 ANDRONICUS. Drusiana, Drusiana! Christ, what blow has fallen on me!
 Drusiana is dead. Run one of you and fetch the holy man John.
 
-### Scene V
+Scene V
 
 JOHN. Why do you weep, my son?
 
@@ -2389,7 +2397,7 @@ laid, and our steward Fortunatus shall guard her grave.
 JOHN. It is right that she should be interred with honour. God rest her
 soul in peace.
 
-### Scene VI
+Scene VI
 
 CALLIMACHUS. Fortunatus, Fortunatus, what is to become of me? Death
 itself cannot quench my love for Drusiana!
@@ -2417,7 +2425,7 @@ FORTUNATUS. Quick, then! We’ll go to the tomb.
 
 CALLIMACHUS. You cannot go quickly enough for me.
 
-### Scene VII
+Scene VII
 
 FORTUNATUS. There lies the body. The face is not like the face of a
 corpse. The limbs show no sign of decay. You can take her to your heart.
@@ -2433,7 +2441,7 @@ CALLIMACHUS. A curse on me! And on you, Fortunatus, who led me on and
 urged me to this infamy. Wretch, may you die from the serpent’s bite!
 Terror and remorse are killing me.
 
-### Scene VIII
+Scene VIII
 
 JOHN. Come, Andronicus, let us go to Drusiana’s tomb, and commend her
 soul to Christ in prayer.
@@ -2444,7 +2452,7 @@ you.
 JOHN. Behold! The invisible God appears to us, made visible in the form
 of a beautiful youth.
 
-ANDRONICUS *(To the Spectators)*. Tremble.[^8]
+ANDRONICUS _(To the Spectators)_. Tremble.[8]
 
 JOHN. Lord Jesus, why hast Thou deigned to manifest Thyself to Thy
 servants in this place?
@@ -2459,7 +2467,7 @@ JOHN. I cannot altogether understand what this means.
 ANDRONICUS. Let us go on to the tomb. It may be that there what is now
 obscure will become clear.
 
-### Scene IX
+Scene IX
 
 JOHN. In Christ’s name, what miracle is this? The sepulchre is open, and
 Drusiana’s body has been cast forth. And near it lie two other corpses
@@ -2761,11 +2769,12 @@ that just and penetrating Judge Who alone can search the heart and reins
 and reward or punish fairly. To Him alone be honour, strength, glory,
 praise, and blessing, world without end. Amen.
 
-Abraham
-=======
+
+
+ABRAHAM
+
 
 Argument
---------
 
 The fall and repentance of Mary, the niece of the hermit Abraham, who,
 after she has spent twenty years in the religious life as a solitary,
@@ -2774,8 +2783,8 @@ from becoming a harlot. But two years later Abraham, in the disguise of
 a lover, seeks her out and reclaims her. For twenty years she does
 penance for her sins with many tears, fastings, vigils, and prayers.
 
+
 Characters
-----------
 
 -   ABRAHAM.
 -   EPHREM.
@@ -2783,10 +2792,10 @@ Characters
 -   A FRIEND TO ABRAHAM.
 -   AN INN-KEEPER.
 
-Abraham
--------
 
-### Scene I
+Abraham
+
+Scene I
 
 ABRAHAM. Brother Ephrem, my dear comrade in the hermit life, may I speak
 to you now, or shall I wait until you have finished your divine praises?
@@ -2856,7 +2865,7 @@ gentle.
 EPHREM. Come, let us go, and impress on her that no life is so sweet and
 secure as the religious one.
 
-### Scene II
+Scene II
 
 ABRAHAM. Mary, my child by adoption, whom I love as my own soul! Listen
 to my advice as to a father’s, and to Brother Ephrem’s as that of a very
@@ -2919,7 +2928,7 @@ EPHREM. My daughter! May the Heavenly Bridegroom to Whom you have given
 yourself in the tender bud of your youth shield you from the wiles of
 the devil!
 
-### Scene III
+Scene III
 
 ABRAHAM. Brother Ephrem, Brother Ephrem! When anything happens, good or
 bad, it is to you I turn. It is your counsel I seek. Do not turn your
@@ -3092,7 +3101,7 @@ snares of the devil.
 EPHREM. May He Who is supreme good itself, without Whom no good thing
 can be done, bless your enterprise and bring it to a happy end!
 
-### Scene IV
+Scene IV
 
 ABRAHAM. Can that be my friend who two years ago went to search for
 Mary? Yes, it is he!
@@ -3147,7 +3156,7 @@ ABRAHAM. I have one gold piece. Should I take it to give this man?
 
 FRIEND. You should, for otherwise he will never let you see Mary.
 
-### Scene V
+Scene V
 
 ABRAHAM. Good-day, friend.
 
@@ -3184,7 +3193,7 @@ young girl.
 
 ABRAHAM. I swear I came here on purpose to feast my eyes on her.
 
-### Scene VI
+Scene VI
 
 INN-KEEPER. Mary, come here! Come along now and show off your charms to
 this young innocent!
@@ -3240,7 +3249,7 @@ MARY. Get up my lord. I will take you to bed.
 
 ABRAHAM. I hope so. I would not go at all unless you came with me.
 
-### Scene VII
+Scene VII
 
 MARY. Look! How do you like this room? A handsome bed, isn’t it? Those
 trappings cost a lot of money. Sit down and I will take off your shoes.
@@ -3393,7 +3402,7 @@ ABRAHAM. Come, let us hasten on our way.
 
 MARY. Yes, let us set out at once. I would not stay here another moment.
 
-### Scene VIII
+Scene VIII
 
 ABRAHAM. Courage, Mary! You see how swiftly we have made the difficult
 and toilsome journey.
@@ -3420,7 +3429,7 @@ been found.
 
 MARY. Of course.
 
-### Scene IX
+Scene IX
 
 EPHREM. Well, brother! If I am not mistaken, you bring good news.
 
@@ -3484,11 +3493,12 @@ whom He redeemed with His holy blood.
 ABRAHAM. To Him be honour, glory, and praise through infinite ages.
 Amen.
 
-Paphnutius
-==========
+
+
+PAPHNUTIUS
+
 
 Argument
---------
 
 The conversion of Thais by the hermit Paphnutius. Obedient to a vision,
 he leaves the desert, and, disguised as a lover, seeks out Thais in
@@ -3499,8 +3509,8 @@ Anthony’s disciple Paul that her humility has won her a place among the
 blessed in Paradise. He brings her out of her cell and stays by her side
 until her soul has left her body.
 
+
 Characters
-----------
 
 -   PAPHNUTIUS.
 -   THAIS.
@@ -3510,12 +3520,12 @@ Characters
 -   ANTONY.
 -   PAUL.
 
+
 Paphnutius
-----------
 
-### Scene I
+Scene I
 
-DISCIPLES.[^9] Why do you look so gloomy, father Paphnutius? Why do you
+DISCIPLES.[9] Why do you look so gloomy, father Paphnutius? Why do you
 not smile at us as usual?
 
 PAPHNUTIUS. When the heart is sad the face clouds over. It is only
@@ -3827,7 +3837,7 @@ may be able to show this soul the beauty of divine love.
 DISCIPLE. May He Who laid low the Prince of Darkness give you the
 victory over the enemy of the human race.
 
-### Scene II
+Scene II
 
 PAPHNUTIUS. I am bewildered in this town. I cannot find my way. Now I
 shut my eyes, and I am back in the desert. I can hear my children’s
@@ -3922,7 +3932,7 @@ YOUNG MAN. To our next meeting, then! Farewell. May Thais be kind!
 
 PAPHNUTIUS. Farewell.
 
-### Scene III
+Scene III
 
 PAPHNUTIUS. Thais! Thais!
 
@@ -4086,7 +4096,7 @@ THAIS. You need not be afraid.
 
 PAPHNUTIUS. Thais, come back quickly! God be with you!
 
-### Scene IV
+Scene IV
 
 THAIS. Come, my lovers! Come, all my evil lovers! Hasten, my lovers!
 Your Thais calls you!
@@ -4155,7 +4165,7 @@ scorns their gifts. Thais, whose boast it was that whoever loved her
 should enjoy her love! What monstrous thing is this? Thais! Thais! this
 is a thing not to be believed.
 
-### Scene V
+Scene V
 
 THAIS. Paphnutius, my father, I am ready now to obey you, command what
 you will.
@@ -4178,7 +4188,7 @@ PAPHNUTIUS. Trust me, daughter. Follow me.
 THAIS. I can follow you with my feet. Would that I could follow you with
 my deeds!
 
-### Scene VI
+Scene VI
 
 THAIS. Oh, I am weary!
 
@@ -4198,7 +4208,7 @@ meet us. I wonder who can have told her so promptly of our arrival.
 
 THAIS. Rumour, Father Paphnutius. Rumour never delays.
 
-### Scene VII
+Scene VII
 
 PAPHNUTIUS. You come opportunely, illustrious Abbess. I was just seeking
 you.
@@ -4363,7 +4373,7 @@ PAPHNUTIUS. I go then.
 
 ABBESS. In peace.
 
-### Scene VIII
+Scene VIII
 
 DISCIPLES. Who knocks there?
 
@@ -4403,14 +4413,14 @@ Terrible Name now and for ever.
 
 DISCIPLES. Amen.
 
-### Scene IX
+Scene IX
 
 PAPHNUTIUS. Three years of her penance are over, and I cannot tell
 whether her sorrow has found favour with God. For some reason He will
 not enlighten me. I know what I will do. I will go to my brother Antony
 and beg him to intercede for me. God will make the truth known to him.
 
-### Scene X
+Scene X
 
 ANTONY. Who comes this way? By his dress it is some brother-dweller in
 the desert. My old eyes do not recognize you yet, friend. Come nearer.
@@ -4500,7 +4510,7 @@ Come, we will gather together my disciples.
 
 PAPHNUTIUS. I know that God will listen to his good servant Antony.
 
-### Scene XI
+Scene XI
 
 ANTONY. Thanks be to God! The gospel’s promise is fulfilled in us!
 
@@ -4543,7 +4553,7 @@ hope, and speak to her only of the beatitude in store for her.
 
 PAPHNUTIUS. Your blessing.
 
-### Scene XII
+Scene XII
 
 PAPHNUTIUS. Thais, my little daughter! Thais! Open the window and let me
 see you.
@@ -4616,7 +4626,7 @@ when we repent.
 PAPHNUTIUS. He loves to be merciful. From all eternity He has preferred
 pardon to punishment.
 
-### Scene XIII
+Scene XIII
 
 THAIS. Holy father, do not leave me. Be near to comfort me in this hour
 of my death.
@@ -4645,11 +4655,12 @@ who shall be led into the joy of eternity! Grant this, O Thou Who alone
 art what Thou art—Who livest and reignest and art glorious in the Unity
 and perfect Trinity through infinite ages!
 
-Sapientia
-=========
+
+
+SAPIENTIA
+
 
 Argument
---------
 
 The martyrdom of the holy virgins Faith, Hope, and Charity, who are put
 to the torture by the Emperor Hadrian and slain in the presence of their
@@ -4661,8 +4672,8 @@ five miles outside the city of Rome.
 Forty days later the spirit of Sapientia takes its flight to heaven
 while she is still praying by her children’s graves.
 
+
 Characters
-----------
 
 -   ANTIOCHUS.
 -   HADRIAN.
@@ -4672,10 +4683,10 @@ Characters
 -   CHARITY.
 -   MATRONS.
 
-Sapientia
----------
 
-### Scene I
+Sapientia
+
+Scene I
 
 ANTIOCHUS. My Lord Emperor, what desire has your servant but to see you
 powerful and prosperous? What ambition apart from the welfare and peace
@@ -4745,7 +4756,7 @@ ANTIOCHUS. You wish me to summon her?
 
 HADRIAN. I have said it.
 
-### Scene II
+Scene II
 
 ANTIOCHUS. Foreign woman, what is your name?
 
@@ -4767,7 +4778,7 @@ ANTIOCHUS. Not so much talk. To the palace.
 
 SAPIENTIA. Go before us and show the way. We will follow you.
 
-### Scene III
+Scene III
 
 ANTIOCHUS. That is the Emperor you see there, seated on his throne. Be
 careful what you say to him.
@@ -4904,7 +4915,7 @@ the parts are evenly even in name and in quantity, whereas in the second
 type when the division is even the quotient is uneven, and vice versa.
 
 HADRIAN. I am not familiar with these terms, and divisors and quotients
-alike mean nothing to me.[^10]
+alike mean nothing to me.[10]
 
 SAPIENTIA. When numbers of any magnitude are set down in order, the
 first set down is called the “minor term” and the last the “major.”
@@ -4953,7 +4964,7 @@ give them three days to reflect.
 ANTIOCHUS. Soldiers, see that these women are well guarded and given no
 chance of escape.
 
-### Scene IV
+Scene IV
 
 SAPIENTIA. Oh, my dearest ones! My beloved children! Do not let this
 narrow prison sadden you. Do not be frightened by the threat of
@@ -4994,7 +5005,7 @@ SAPIENTIA. We must wait till the hour comes when we are summoned.
 
 FAITH. We chafe at the delay, but we must be patient.
 
-### Scene V
+Scene V
 
 HADRIAN. Antiochus, bring the Greek prisoners before us.
 
@@ -5363,7 +5374,7 @@ HADRIAN. We shall see.
 
 CHARITY. Yes, we shall see.
 
-### Scene VI
+Scene VI
 
 HADRIAN. What is wrong, Antiochus? Why have you returned, and with such
 a dejected air?
@@ -5398,7 +5409,7 @@ ANTIOCHUS. She must perish by the sword like the others.
 
 HADRIAN. Let us use it then, and without delay.
 
-### Scene VII
+Scene VII
 
 ANTIOCHUS. Uncover that obstinate little neck, Charity, and prepare for
 the sword of the executioner.
@@ -5420,7 +5431,7 @@ SAPIENTIA. Farewell, beloved child, farewell; and when you are united to
 Christ in heaven give a thought to the mother who gave you life even
 when the years had exhausted her strength.
 
-### Scene VIII
+Scene VIII
 
 SAPIENTIA. Noble matrons, gather round me, and help me bury the bodies
 of my children.
@@ -5443,7 +5454,7 @@ far for you?
 MATRONS. By no means. We will follow their bodies to the place you have
 chosen.
 
-### Scene IX
+Scene IX
 
 SAPIENTIA. This is the place.
 
@@ -5515,8 +5526,10 @@ and rule for ever and ever!
 
 MATRONS. O Lord, receive her soul! Amen.
 
-A Note on the Acting of the Plays
-=================================
+
+
+A NOTE ON THE ACTING OF THE PLAYS
+
 
 The evidence that Roswitha’s plays were intended for representation has
 already been discussed. If they were ever acted in her own time at
@@ -5538,7 +5551,7 @@ refrain from inventing a comically crude one based on an arrogant
 condescension to past ignorance of what in any century is dramatically
 effective.
 
-When *Callimachus* was brought on to the modern stage a misleading
+When _Callimachus_ was brought on to the modern stage a misleading
 impression of Roswitha’s ability as a dramatist was created by a
 calculated childishness in the interpretation. All the characters were
 kept in view of the audience whether they were concerned in a scene or
@@ -5551,7 +5564,7 @@ rather than yield to Callimachus was greeted with shouts of laughter.
 And it was said that the mirth was natural and inevitable because
 Roswitha’s manner is so naive! Yet if she is treated on her merits, not
 as an archaic freak, she can be impressive enough on the stage as Edith
-Craig’s production of *Paphnutius* proved. In this production the abrupt
+Craig’s production of _Paphnutius_ proved. In this production the abrupt
 transition from scene to scene was bridged by the singing of plainsong
 melodies, derived from MSS. of the ninth century. The suggestions for
 action in the lines were examined with sympathetic insight, and
@@ -5560,10 +5573,10 @@ seriously and used all their skill in making the characters live. The
 old story of the conversion of Thais became new, and although many found
 Roswitha’s treatment of it unpalatable, none found it ludicrous. A
 comparison of the divergent impressions made by the Roswitha of
-*Callimachus* and the Roswitha of *Paphnutius* is a lesson in the
+_Callimachus_ and the Roswitha of _Paphnutius_ is a lesson in the
 difficulty of sifting what the dramatist has done from what the
 interpreter has done, a difficulty all the greater when the text of a
-play is not available. Now that *Callimachus* can be read it will be
+play is not available. Now that _Callimachus_ can be read it will be
 easier for those who saw its solitary performance to recognize that it
 was travestied on the stage.
 
@@ -5571,56 +5584,54 @@ Imagination, sympathy with Roswitha’s uncompromising religious faith, a
 few sets of curtains, or an interchangeable scene, actors capable either
 by nature or training of extracting a pound of effect out of an ounce of
 dialogue, are the foundations on which performances of these plays can
-be built. *Paphnutius*, *Abraham*, and *Callimachus* are obviously more
+be built. _Paphnutius_, _Abraham_, and _Callimachus_ are obviously more
 actable than the others, but I feel that a great deal might be done with
-*Sapientia*. Perhaps one day it will be possible to arrange a Roswitha
+_Sapientia_. Perhaps one day it will be possible to arrange a Roswitha
 “cycle” for the edification of a few enthusiasts. Meanwhile those who
 share my belief that plays are not plays until they are acted, can amuse
 themselves by thinking over different methods of representation.
 
-[^1]: Since this was written, an English translation of one of the
-    plays, *Abraham*, has been issued by a private press.
+[1] Since this was written, an English translation of one of the plays,
+_Abraham_, has been issued by a private press.
 
-[^2]: I have adopted this form of the name in preference to
-    “Hrotsuitha,” “Hrotswitha,” or “Hrosvitha,” as being more easily
-    pronounced and more pleasant to the eye. The name is said to be
-    derived from the old Saxon word “Hrodsuind” (strong voice), a
-    derivation accepted by Roswitha herself in her preface to her plays,
-    when she writes “ego, clamor validus Gandeishermensis,” and approved
-    by Grimm.
+[2] I HAVE ADOPTED THIS FORM OF THE NAME IN PREFERENCE TO “HROTSUITHA,”
+“HROTSWITHA,” OR “HROSVITHA,” AS BEING MORE EASILY PRONOUNCED AND MORE
+PLEASANT TO THE EYE. THE NAME IS SAID TO BE DERIVED FROM THE OLD SAXON
+WORD “HRODSUIND” (STRONG VOICE), A DERIVATION ACCEPTED BY ROSWITHA
+HERSELF IN HER PREFACE TO HER PLAYS, WHEN SHE WRITES “EGO, CLAMOR
+VALIDUS GANDEISHERMENSIS,” AND APPROVED BY GRIMM.
 
-[^3]: Believing that the representation of the plays is possible, even
-    desirable, I have also aimed at making the dialogue *speakable*.
+[3] Believing that the representation of the plays is possible, even
+desirable, I have also aimed at making the dialogue _speakable_.
 
-[^4]: The manuscript is now in the Munich City Library. Recently another
-    manuscript, containing four of the six dramas, is reported to have
-    been discovered among the state archives of Cologne. (*Times* Berlin
-    Correspondent, May 9, 1922.)
+[4] The manuscript is now in the Munich City Library. Recently another
+manuscript, containing four of the six dramas, is reported to have been
+discovered among the state archives of Cologne. (_Times_ Berlin
+Correspondent, May 9, 1922.)
 
-[^5]: Since this was written *Callimachus* (translation by Arthur Waley)
-    has been produced by the Art Theatre. *Paphnutius*, in my
-    translation, was produced by Miss Edith Craig for the Pioneer
-    Players at the Savoy Theatre on June 4, 1914, Miss Ellen Terry
-    appearing in the part of the Abbess.
+[5] Since this was written _Callimachus_ (translation by Arthur Waley)
+has been produced by the Art Theatre. _Paphnutius_, in my translation,
+was produced by Miss Edith Craig for the Pioneer Players at the Savoy
+Theatre on June 4, 1914, Miss Ellen Terry appearing in the part of the
+Abbess.
 
-[^6]: Celtes prints this as part of the text; Magnin as a direction, on
-    the ground that it is *introducuntur*, not *introducautur* in the
-    MS.
+[6] Celtes prints this as part of the text; Magnin as a direction, on
+the ground that it is _introducuntur_, not _introducautur_ in the MS.
 
-[^7]: Another “stage direction” omitted by Celtes.
+[7] Another “stage direction” omitted by Celtes.
 
-[^8]: This admonition to “spectators” is in the MS and seems
-    inexplicable if Roswitha wrote her plays to be read, not performed.
+[8] This admonition to “spectators” is in the MS and seems inexplicable
+if Roswitha wrote her plays to be read, not performed.
 
-[^9]: When *Paphnutius* was acted, the dialogue of the “disciples” was
-    allotted to several different actors, with the interesting result
-    that some definite characters emerged.
+[9] When _Paphnutius_ was acted, the dialogue of the “disciples” was
+allotted to several different actors, with the interesting result that
+some definite characters emerged.
 
-[^10]: It has been my duty to preserve this rather tiresome numerical
-    discourse, which no doubt Roswitha introduced to impress the
-    “learned men” to whom she submitted her work, because it throws an
-    interesting light on the studies pursued in such a monastery as
-    Gandersheim in the 10th century. Equivalent modern English terms
-    have been employed where the original, by change of usage, has
-    become misleading. For example, “divisor” and “quotient” have been
-    substituted for “denomination” and “quantity.”
+[10] It has been my duty to preserve this rather tiresome numerical
+discourse, which no doubt Roswitha introduced to impress the “learned
+men” to whom she submitted her work, because it throws an interesting
+light on the studies pursued in such a monastery as Gandersheim in the
+10th century. Equivalent modern English terms have been employed where
+the original, by change of usage, has become misleading. For example,
+“divisor” and “quotient” have been substituted for “denomination” and
+“quantity.”

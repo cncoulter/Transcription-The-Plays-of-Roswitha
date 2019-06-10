@@ -17,6 +17,8 @@ The martyrdom of the holy virgins Agape, Chionia, and Irena. The Governor Dulcit
 - *Ushers of the Imperial Palace.*
 - *Ladies-in-Waiting on the Wife of Dulcitius.*
 
+## Dulcitius
+
 ### Scene I
 
 DIOCLETIAN. The pure and famous race to which you belong and your own rare beauty make it fitting that you should be wedded to the highest in our court. Thus we decree, making the condition that you first promise to deny your Christ and sacrifice to the gods.

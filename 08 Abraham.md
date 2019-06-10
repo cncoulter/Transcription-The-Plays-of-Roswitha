@@ -12,6 +12,8 @@ The fall and repentance of Mary, the niece of the hermit Abraham, who, after she
 - A FRIEND TO ABRAHAM.
 - AN INN-KEEPER.
 
+## Abraham
+
 ### Scene I
 
 ABRAHAM. Brother Ephrem, my dear comrade in the hermit life, may I speak to you now, or shall I wait until you have finished your divine praises?

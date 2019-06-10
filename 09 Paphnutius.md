@@ -14,6 +14,8 @@ The conversion of Thais by the hermit Paphnutius. Obedient to a vision, he leave
 - ANTONY.
 - PAUL.
 
+## Paphnutius
+
 ### Scene I
 
 DISCIPLES.[^9] Why do you look so gloomy, father Paphnutius? Why do you not smile at us as usual?

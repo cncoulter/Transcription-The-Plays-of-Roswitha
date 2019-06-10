@@ -6,11 +6,13 @@ Roswitha, also known as Hrotsvitha of Gandersheim, was a tenth century German ca
 
 ## Copyright
 
-*The Plays of Roswitha*. Translated by Christopher St. John. London: Chatto & Windus, 1923.
+*The Plays of Roswitha*  
+Translated by Christopher St. John  
+London: Chatto & Windus, 1923
 
 Text retrieved from the Internet Archive: <https://archive.org/details/playsofroswitha00hrotuoft>
 
-Computer transcription corrected by [Cameron N. Coulter](http://www.cncoulter.com/).
+Computer transcription corrected by [Cameron N. Coulter](https://www.cncoulter.com/).
 
 This work (*The Plays of Roswitha*, by Roswitha of Gandersheim), identified by Cameron N. Coulter, is free of known copyright restrictions within the United States.
 

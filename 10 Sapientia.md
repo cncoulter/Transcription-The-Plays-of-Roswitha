@@ -16,6 +16,8 @@ Forty days later the spirit of Sapientia takes its flight to heaven while she is
 - CHARITY.
 - MATRONS.
 
+## Sapientia
+
 ### Scene I
 
 ANTIOCHUS. My Lord Emperor, what desire has your servant but to see you powerful and prosperous? What ambition apart from the welfare and peace and greatness of the state you rule? So when I discover anything that threatens the commonwealth or your peace of mind I try to crush it before it has taken root.
