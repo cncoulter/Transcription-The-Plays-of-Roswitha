@@ -42,9 +42,9 @@ DISCIPLES. Man?
 
 PAPHNUTIUS. Yes.
 
-DISCIPLES. Whatman?
+DISCIPLES. What man?
 
-PAPHNUTIUS. Everyman.
+PAPHNUTIUS. Every man.
 
 DISCIPLES. How can this be?
 
@@ -492,7 +492,7 @@ LOVERS. What monstrous thing is this? Thais, glory of our land, is changed! Thai
 
 THAIS. Paphnutius, my father, I am ready now to obey you, command what you will.
 
-PAPHNUTIUS. Thais, I have been uneasy during your absence. I feared you had been caught in the wond’s snare. I feared you would not return.
+PAPHNUTIUS. Thais, I have been uneasy during your absence. I feared you had been caught in the world’s snare. I feared you would not return.
 
 THAIS. You need not have been afraid. The world does not tempt me now. My possessions are ashes. I have publicly renounced my lovers.
 

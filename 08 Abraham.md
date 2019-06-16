@@ -172,7 +172,7 @@ ABRAHAM. If I had not been so blind! I ought to have paid more heed to that terr
 
 EPHREM. What vision?
 
-ABRAHAM. I dreamed I was standing at the door of my cell, and that a huge dragon with a loathsome stench rushed violendy towards me. I saw that the creature was attracted by a little white dove at my side. It pounced on the dove, devoured it, and vanished.
+ABRAHAM. I dreamed I was standing at the door of my cell, and that a huge dragon with a loathsome stench rushed violently towards me. I saw that the creature was attracted by a little white dove at my side. It pounced on the dove, devoured it, and vanished.
 
 EPHREM. There is no doubt what this vision meant.
 
@@ -342,7 +342,7 @@ MARY. Oh, that I had died three years ago before I came to this!
 
 ABRAHAM. I came here to make love to you, not to weep with you over your sins.
 
-MARY. A little thing moved me. and I spoke foolishly. It is nothing. Come, let us eat and drink and be merry, for, as you say, this is not the place to think of one’s sins.
+MARY. A little thing moved me, and I spoke foolishly. It is nothing. Come, let us eat and drink and be merry, for, as you say, this is not the place to think of one’s sins.
 
 ABRAHAM. I have eaten and drunk enough, thanks to your good table, Sir. Now by your leave I will go to bed. My tired limbs need a rest.
 

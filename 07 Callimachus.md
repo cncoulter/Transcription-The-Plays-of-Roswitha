@@ -139,7 +139,7 @@ CALLIMACHUS. I call heaven and earth to witness that if you do not yield I will 
 
 ### Scene IV
 
-DRUSIANA. O Lord Jesus, what use is my vow of chastity? My beauty has all the same made this man love me. Pity my fears, O Lord. Pity the grief which has seized me. I know not what to do. If I tell anyone what has happened, there will be disorder in the city on my account; if I keep silence, only Thy grace can protect me from falling into the net spread for me. O Christ, take me to Thyself. Let me die swifdy. Save me from being the ruin of a soul!
+DRUSIANA. O Lord Jesus, what use is my vow of chastity? My beauty has all the same made this man love me. Pity my fears, O Lord. Pity the grief which has seized me. I know not what to do. If I tell anyone what has happened, there will be disorder in the city on my account; if I keep silence, only Thy grace can protect me from falling into the net spread for me. O Christ, take me to Thyself. Let me die swiftly. Save me from being the ruin of a soul!
 
 ANDRONICUS. Drusiana, Drusiana! Christ, what blow has fallen on me! Drusiana is dead. Run one of you and fetch the holy man John.
 
