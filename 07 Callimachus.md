@@ -353,7 +353,7 @@ JOHN. Remember that when the only Son of God, the Virgin’s first-born, the one
 
 ANDRONICUS. True again.
 
-JOHN. And though not one of us was guildess, He deprived no one of His mercy, but offered Himself for all, and for all laid down His life in love.
+JOHN. And though not one of us was guiltless, He deprived no one of His mercy, but offered Himself for all, and for all laid down His life in love.
 
 ANDRONICUS. Had the Innocent One not been slain, none of us would have been saved.
 
